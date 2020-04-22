@@ -6,19 +6,24 @@
 
 首页:    
 
-![](src/assets/img/vueImage/home.png)
+![](src/assets/img/vueImage/home.png)     
+
 商品:    
 
-![](src/assets/img/vueImage/goodsImage.png)
+![](src/assets/img/vueImage/goodsImage.png)     
+
 详情页:    
 
-![](src/assets/img/vueImage/detail.png)
+![](src/assets/img/vueImage/detail.png)   
+
 分类:   
 
-![](src/assets/img/vueImage/category.png)
+![](src/assets/img/vueImage/category.png)   
+
 购物车：    
 
-![](src/assets/img/vueImage/cart.png)
+![](src/assets/img/vueImage/cart.png)   
+
 我的：  
 
 ![](src/assets/img/vueImage/profile.png)
