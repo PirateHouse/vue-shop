@@ -5,7 +5,7 @@
 -项目分四个页面（主页、详情、分类、购物车）
 
 首页：
-![](https://github.com/PirateHouse/vue-shop/src/assets/img/vueImage/home.png)
+![](https://github.com/PirateHouse/vue-shop/master/src/assets/img/vueImage/home.png)
 商品:
 ![](src/assets/img/vueImage/goodsImage.png)
 详情页:
